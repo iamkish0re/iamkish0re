@@ -1,5 +1,6 @@
 .App {
-  text-align: center;
+  background-color: rgb(7, 1, 32);
+  color: white;
 }
 
 .App-logo {
@@ -35,4 +36,24 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+ul li {
+  display: inline;
+  padding: 10px;
+  text-decoration:none;
+}
+
+a:active, a:visited, a:link{
+  color: white;
+  text-decoration: none;
+}
+
+a:hover{
+  color: aqua;
+}
+
+.mylogo {
+  font-family: "ＭＳ Ｐゴシック";
+  font-weight: bolder;
 }
