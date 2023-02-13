@@ -5,9 +5,9 @@
 Hi, I'm Kishore, a software developer and data engineer with experience in building scalable, robust and high-performance web applications and Data warehouse. I'm passionate about using technology to solve real-world problems and I strive to write clean, maintainable and efficient code.
 
 ## Skills
-- Programming languages: `JavaScript`, `Python`, `Java`
+- Programming languages: `JavaScript`, `Python`, `Java`, `SAS`
 - Front-end technologies: `React`, `Angular`
-- Back-end technologies: `Node.js`, `maven`
+- Back-end technologies: `Node.js`, `Maven`
 - Databases: `MSSQL`, `MySQL`
 - Other technologies: `Git`, `Pandas`, `Azure Data Factory`
 
