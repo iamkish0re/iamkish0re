@@ -42,5 +42,7 @@ Hi, I'm Kishore!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkish0re&hide_progress=true&theme=dark&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkish0re&layout=compact&theme=dark&border_radius=30)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 Thanks for visiting my profile! Feel free to reach out to me if you'd like to connect.
