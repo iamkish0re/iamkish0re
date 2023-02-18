@@ -1,59 +1,144 @@
-.App {
-  background-color: rgb(7, 1, 32);
-  color: white;
+.body {
+  margin: 0 !important;
+  text-align: center !important;
+  font-family: 'Merriweather', serif !important;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1 {
+  margin: 50px auto 0px auto !important;
+  font-family: 'Sacramento', cursive !important;
+  line-height: 2 !important;
+  font-size: 562.5% !important;
+  color: #7286D3 !important;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+h2 {
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 2.625rem !important;
+  font-weight: normal !important;
+  color: #7286D3 !important;
+
+}
+h3 {
+  font-family: 'Montserrat', sans-serif !important;
+  color: #8EA7E9 !important;
+
+}
+p {
+  font-family: 'Merriweather', serif !important;
+}
+a {
+  font-family: 'Montserrat', sans-serif !important;
+  color: #FFF2F2 !important;
+  margin: 10px 20px 10px 20px !important;
+  text-decoration: none !important;
+}
+a:hover {
+  color: #4e5056 !important;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+
+.top-container {
+  background-color: #E5E0FF !important;
+  position: relative !important;
+  padding-top: 100px !important;
 }
 
-.App-link {
-  color: #61dafb;
+.middle-container {
+  margin: 100px 0 !important;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+
+.bottom-container {
+  background-color: #7286D3 !important;
+  padding: 50px 0 20px 0 !important;
+  margin-bottom: 0 !important;
 }
 
-ul li {
-  display: inline;
-  padding: 10px;
-  text-decoration:none;
+
+.top-cloud {
+  position: absolute !important;
+  top: 50px !important;
+  right: 300px !important;
 }
 
-a:active, a:visited, a:link{
-  color: white;
-  text-decoration: none;
+.bottom-cloud {
+  position: absolute !important;
+  left: 300px !important;
+  bottom: 300px !important;
 }
 
-a:hover{
-  color: aqua;
+.site-under {
+  background-color: #E4E8F4 !important;
+  height: 50%;
+  padding: 3%;
 }
 
-.mylogo {
-  font-family: "ＭＳ Ｐゴシック";
-  font-weight: bolder;
+.skill-row {
+  width: 50% !important;
+  margin: 100px auto 100px auto !important;
+  text-align: left !important;
+  line-height: 2 !important;
+}
+
+.skill-img {
+  width: 20% !important;
+  float: left !important;
+  margin-right: 30px !important;
+}
+
+.profile {
+  width: 50% !important;
+  margin: 0 auto 0 auto !important;
+  line-height: 2 !important;
+}
+
+hr {
+  width: 5% !important;
+  border-top: dotted 7px #E5E0FF !important;
+  border-bottom: 0 !important;
+  margin: 100px auto 100px auto !important;
+}
+
+.contact-msg {
+  width: 30% !important;
+  margin: 40px auto 60px auto !important;
+}
+
+.btn {
+  background: #547ee8 !important;
+  background-image: -webkit-linear-gradient(top, #547ee8, #8ba1ed) !important;
+  background-image: -moz-linear-gradient(top, #547ee8, #8ba1ed) !important;
+  background-image: -ms-linear-gradient(top, #547ee8, #8ba1ed) !important;
+  background-image: -o-linear-gradient(top, #547ee8, #8ba1ed) !important;
+  background-image: linear-gradient(to bottom, #547ee8, #8ba1ed) !important;
+  -webkit-border-radius: 10 !important;
+  -moz-border-radius: 10 !important;
+  border-radius: 10px !important;
+  -webkit-box-shadow: 0px 1px 3px #666666 !important;
+  -moz-box-shadow: 0px 1px 3px #666666 !important;
+  box-shadow: 0px 1px 3px #666666 !important;
+  font-family: 'Montserrat', sans-serif !important;
+  color: #ffff !important;
+  font-size: 20px !important;
+  padding: 10px 20px 10px 20px !important;
+  text-decoration: none !important;
+}
+
+.btn:hover {
+  background: #3cb0fd !important;
+  background-image: -webkit-linear-gradient(top, #3cb0fd, #3498db) !important;
+  background-image: -moz-linear-gradient(top, #3cb0fd, #3498db) !important;
+  background-image: -ms-linear-gradient(top, #3cb0fd, #3498db) !important;
+  background-image: -o-linear-gradient(top, #3cb0fd, #3498db) !important;
+  background-image: linear-gradient(to bottom, #3cb0fd, #3498db) !important;
+  text-decoration: none !important;
+}
+
+.trade-mark {
+  margin-bottom: 0 !important;
+  color: #FFF2F2 !important;
+  font-size: 0.7rem !important;
+  font-family: 'Montserrat', sans-serif !important;
+  padding-top: 5%;
 }
