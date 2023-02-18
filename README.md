@@ -36,7 +36,11 @@ Hi, I'm Kishore!
   <img src="https://cdn-icons-png.flaticon.com/512/873/873107.png" title="Azure" alt="Azure" width="40" height="40"/>&nbsp;  
 </div>
 
-## Repositories
-[![GitHub Repos](https://img.shields.io/badge/GitHub-Repositories-informational.svg?logo=github&style=for-the-badge)](https://github.com/iamkish0re)
+## Stats
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=iamkish0re&&theme=dark&border_radius=30)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iamkish0re&hide_progress=true&theme=dark&border_radius=30)](https://github.com/anuraghazra/github-readme-stats)
+
 
 Thanks for visiting my profile! Feel free to reach out to me if you'd like to connect.
